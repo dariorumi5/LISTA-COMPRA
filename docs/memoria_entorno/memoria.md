@@ -1,5 +1,4 @@
 # Memoria Técnica – Lista de la Compra
-
 1. Relación programa - hardware:
 Mi programa Java se ejecuta sobre la JVM (Java Virtual Machine):
 - Memoria RAM: aquí se carga el bytecode (LO QUE HAY DENTRO DE UN .class) generado por el compilador y se almacenan las variables.
@@ -27,7 +26,7 @@ Mi proceso de desarrollo se ha ajustado a una metodología ágil tipo Kanban/Scr
   javac GestorListaCompra.java
   java GestorListaCompra
 
-  2. Desde otro IDE: IntelliJ:
+5. Desde otro IDE: IntelliJ:
 Abre el proyecto en IntelliJ.
 Ve a File → Project Structure → Artifacts.
 Añade un nuevo artefacto tipo JAR → From modules with dependencies.
