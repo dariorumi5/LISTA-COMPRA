@@ -1,4 +1,4 @@
-**- LISTA-COMPRA**
+
 DESCRIPCIÓN DEL PROYECTO:
 Este proyecto consiste en una aplicación Java que permite gestionar una lista de la compra. El usuario puede añadir productos, eliminarlos, buscarlos y vaciar la lista.
 
