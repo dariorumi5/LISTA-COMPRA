@@ -1,4 +1,4 @@
-# Documento de Incidencias:
+Documento de Incidencias:
 
 | ID | Descripción del bug                       | Cómo se detectó                                 | Cambios realizados                             | 
 |----|-------------------------------------------|-------------------------------------------------|------------------------------------------------|
