@@ -1,4 +1,4 @@
-# LISTA-COMPRA
+**LISTA-COMPRA**
 DESCRIPCIÓN DEL PROYECTO:
 Este proyecto consiste en una aplicación Java que permite gestionar una lista de la compra. El usuario puede añadir productos, eliminarlos, buscarlos y vaciar la lista.
 
@@ -14,7 +14,7 @@ CÓMO EJECUTAR LAS PRUEBAS:
 
 COMMITS RELEVANTES:
 
-Eliminación de module-info.java por conflicto con JUnit.
-Añadido método @Before para vaciar lista antes de cada test.
-Sincronización de cambios entre GitHub y local.
-Creación y subida de rama develop.
+- Eliminación de module-info.java por conflicto con JUnit.
+- Añadido método @Before para vaciar lista antes de cada test.
+- Sincronización de cambios entre GitHub y local.
+- Creación y subida de rama develop.
