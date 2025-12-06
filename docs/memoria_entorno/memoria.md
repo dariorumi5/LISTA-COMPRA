@@ -27,10 +27,10 @@ Mi proceso de desarrollo se ha ajustado a una metodología ágil tipo Kanban/Scr
   java GestorListaCompra
 
 5. Desde otro IDE: IntelliJ:
-Abre el proyecto en IntelliJ.
-Ve a File → Project Structure → Artifacts.
-Añade un nuevo artefacto tipo JAR → From modules with dependencies.
-Selecciona la clase principal (main).
-Compila el proyecto con Build → Build Artifacts → Build.
-Obtendrás el .jar en la carpeta out/artifacts/.
+- Abre el proyecto en IntelliJ.
+- Ve a File → Project Structure → Artifacts.
+- Añade un nuevo artefacto tipo JAR → From modules with dependencies.
+- Selecciona la clase principal (main).
+- Compila el proyecto con Build → Build Artifacts → Build.
+- Obtendrás el .jar en la carpeta out/artifacts/.
 
